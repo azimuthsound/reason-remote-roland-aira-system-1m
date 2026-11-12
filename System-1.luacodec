@@ -1,0 +1,11 @@
+version={0,0,1}
+
+function remote_supported_control_surfaces()
+	local surfaces =		{
+			{ manufacturer="Roland", model="System-1",
+				source="System-1.lua", picture="System-1.png", 
+				in_ports={{description="In Port"}}, out_ports={{description="Out Port", optional=true}}, 
+				has_keyboard=true,
+				setup_info_text="" },
+		}	return surfaces
+end

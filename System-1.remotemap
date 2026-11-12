@@ -1,0 +1,2022 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Roland
+Control Surface Model	System-1
+Map Version	0.0.2
+//Date 22 October 2023
+
+
+
+
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	Master Keyboard			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Keyboard		Keyboard		
+Map	Pitch Bend		Pitch Bend		
+Map	Modulation		Mod Wheel		
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	Reason Document			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode			
+Map	LFO Key Trig		Select Prev Patch for Target Device		
+Map	Tempo Sync		Select Next Patch for Target Device		
+			
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	Combinator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode				
+Map	Filter LPF Cutoff		Rotary 1		
+Map	Filter Reso		Rotary 2		
+Map	Filter Env		Rotary 3		
+Map	Filter Key		Rotary 4		
+
+Map	Osc 2 Ring		Button 1		
+Map	Mixer Osc Type		Button 2		
+Map	Osc 2 Sync		Button 3		
+Map	Legato		Button 4		
+
+Map	Amp Crusher		Mixer Level		
+
+//	______________________________________
+//	
+Scope	Propellerhead Software	se.propellerheads.Europa			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO 1 Wave		
+Map	LFO Fade Time		LFO 1 Delay		
+Map	LFO Rate		LFO 1 Rate		
+			
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Reso		
+Map	Filter Env		Filter Mod		
+Map	Filter Key		Filter Kbd		
+//Map	Filter LPF Type				
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+//Map	Amp Tone				
+//Map	Amp Crusher				
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Env 1 Rate		
+Map	Filter Decay		Env 2 Rate		
+Map	Filter Sustain		Env 3 Rate		
+Map	Filter Release		Env 4 Rate		
+//AMP ENV					
+Map	Amp Attack		Amp Attack		
+Map	Amp Decay		Amp Decay		
+Map	Amp Sustain		Amp Sustain		
+Map	Amp Release		Amp Release		
+//EFFECTS					
+Map	Effects Reverb		Reverb Amount		
+Map	Effects Delay		Delay Amount		
+Map	Effects Delay Time		Delay Time		
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Portamento Mode		
+Map	Mono		Key Mode		
+
+Map	Amp Crusher		Master Volume		
+
+//	______________________________________
+//	
+Scope	Propellerhead Software	se.propellerheads.Mimic			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO Wave 1		
+Map	LFO Fade Time		LFO Delay 1		
+Map	LFO Rate		LFO Rate 1		
+Map	LFO Filter		Filter ModAmt 1
+Map	LFO Amp		Amp ModAmt 1					
+Map	LFO Pitch		Pitch LFOAmt 1					
+
+Map	Osc 1 Color		Pitch Semi 1
+Map	Osc 2 Tune		Tune 1
+
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq 1		
+Map	Filter Reso		Filter Reso 1		
+Map	Filter Env		Filter Env 1		
+Map	Filter Key		Filter Kbd 1		
+Map	Filter LPF Type		Filter Type 1
+Map	Amp Tone		Filter Drive 1
+Map	Filter HPF Cutoff		Filter Vel 1
+		
+//MOD ENV					
+Map	Pitch Env		Pitch ModAmt 1	
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Filter Attack 1		
+Map	Filter Decay		Filter Decay 1		
+Map	Filter Sustain		Filter Sustain 1		
+Map	Filter Release		Filter Release 1		
+//AMP ENV					
+Map	Amp Attack		Amp Attack 1		
+Map	Amp Decay		Amp Decay 1		
+Map	Amp Sustain		Amp Sustain 1		
+Map	Amp Release		Amp Release 1		
+//EFFECTS					
+Map	Effects Reverb		Squeeze 1		
+Map	Effects Delay		Effect Mod 1		
+Map	Effects Delay Time		Effect Mix 1		
+//KEY MODE					
+Map	Portamento		Portamento Rate 1		
+Map	Legato		Portamento Mode 1		
+Map	Mono		Key Mode 1		
+
+Map	Amp Crusher		Master Volume		
+
+//	______________________________________
+//	
+Scope	Propellerhead Software	se.propellerheads.Grain			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO 1 Wave		
+Map	LFO Fade Time		LFO 1 Delay		
+Map	LFO Rate		LFO 1 Rate		
+			
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Reso		
+Map	Filter Env		Filter Env2		
+Map	Filter Key		Filter Kbd		
+		
+//FILTER ENV					
+Map	Filter Attack		Env 1 Rate		
+Map	Filter Decay		Env 2 Rate		
+Map	Filter Sustain		Env 3 Rate		
+Map	Filter Release		Env 4 Rate		
+//AMP ENV					
+Map	Amp Attack		Amp Attack		
+Map	Amp Decay		Amp Decay		
+Map	Amp Sustain		Amp Sustain		
+Map	Amp Release		Amp Release		
+//EFFECTS					
+Map	Effects Reverb		Reverb Amount		
+Map	Effects Delay		Delay Amount		
+Map	Effects Delay Time		Delay Time		
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Portamento Mode		
+Map	Mono		Key Mode		
+//					
+Map	Amp Crusher		Master Volume		
+	
+
+//	______________________________________
+//	
+Scope	Propellerheads	Thor Polysonic Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape		MAP		
+Map	LFO Fade Time		LFO 1 Delay		
+Map	LFO Rate		LFO 1 Rate		
+Map	LFO Pitch		Mod 8 Dest Amount		
+Map	LFO Filter		Mod 9 Dest Amount		
+Map	LFO Amp		Mod 10 Dest Amount		
+// Map	LFO Key Trig		LFO 1 Key Sync		
+// Map	Tempo Sync		LFO 1 Tempo Sync		
+//OSC 1					
+Map	Osc 1 Type		Osc 1 Param B		
+Map	Osc 1 Range		Osc 1 Oct		
+Map	Osc 1 Color		Osc 1 Mod		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		Mod 1 Dest Amount		
+//OSC 2					
+Map	Osc 2 Type		Osc 2 Param B		
+Map	Osc 2 Range		Osc 2 Oct		
+Map	Osc 2 Color		Osc 2 Mod		
+Map	Osc 2 Tune		Osc 2 Tune		
+//Map	Osc 2 Mod				
+Map	Osc 2 Ring		Osc 1 AM From Osc 2		
+Map	Osc 2 Sync		Osc 2 Sync To Osc 1		
+//SUB OSC					
+Map	Mixer Osc Type		Osc 2 to Filter 1 Enable		
+//NOISE					
+Map	Noise Type		Osc 3 to Filter 1 Enable		
+//MIXER					
+Map	Mixer Osc 1		Osc 1 And 2 Level		
+Map	Mixer Osc 2		Osc 1 And 2 Balance		
+Map	Mixer Sub Osc		Osc 3 Mod		
+Map	Mixer Noise		Osc 3 Level		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter 1 Freq		
+Map	Filter Reso		Filter 1 Res		
+Map	Filter Env		Filter 1 Env Amount		
+Map	Filter Key		Filter 1 Kbd		
+Map	Filter LPF Type		Filter 1 Self Osc		
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter 3 Freq		
+//AMP					
+Map	Amp Tone		Filter 1 Drive		
+Map	Amp Crusher		Master Level		
+//MOD ENV					
+Map	Pitch Env		Mod 11 Dest 2 Amount		
+Map	Pitch Attack		Mod Env Attack		
+Map	Pitch Decay		Mod Env Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter Env Attack		
+Map	Filter Decay		Filter Env Decay		
+Map	Filter Sustain		Filter Env Sustain		
+Map	Filter Release		Filter Env Release		
+///AMP ENV					
+Map	Amp Attack		Amp Env Attack		
+Map	Amp Decay		Amp Env Decay		
+Map	Amp Sustain		Amp Env Sustain		
+Map	Amp Release		Amp Env Release		
+//EFFECTS					
+Map	Effects Reverb		Chorus Dry Wet		
+Map	Effects Delay		Delay Dry Wet		
+Map	Effects Delay Time		Delay Time		
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Portamento Mode		
+Map	Mono		Key Mode		
+					
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	SubTractor Analog Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO1 Wave		
+Map	LFO Fade Time		LFO2 Delay		
+Map	LFO Rate		LFO1 Rate		
+Map	LFO Pitch		LFO2 Amount		
+Map	LFO Filter		LFO1 Amount		
+Map	LFO Amp		LFO2 Rate		
+//Map	LFO Key Trig				
+//Map	Tempo Sync		LFO Sync Enable		
+//OSC 1					
+Map	Osc 1 Type		Osc1 Wave		
+Map	Osc 1 Range		Osc1 Octave		
+Map	Osc 1 Color		Osc1 Phase Diff		
+Map	Osc 1 Mod		LFO1 Dest		
+Map	Osc 1 Cross Mod		FM Amount		
+//OSC 2					
+Map	Osc 2 Type		Osc2 Wave		
+Map	Osc 2 Range		Osc2 Octave		
+Map	Osc 2 Color		Osc2 Phase Diff		
+Map	Osc 2 Tune		Osc2 Fine Tune		
+Map	Osc 2 Mod		LFO2 Dest		
+Map	Osc 2 Ring		Ring Mod		
+Map	Osc 2 Sync		Osc2 Phase Mode		
+//SUB OSC					
+Map	Mixer Osc Type		Osc2 On/Off		
+//NOISE					
+Map	Noise Type		Noise On/Off		
+//MIXER					
+Map	Mixer Osc 1		Osc Mix		
+Map	Mixer Osc 2		Noise Decay		
+Map	Mixer Sub Osc		Noise Color		
+Map	Mixer Noise		Noise Level		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Res		
+Map	Filter Env		Filter Env Amount		
+Map	Filter Key		Filter Kbd Track		
+Map	Filter LPF Type		Filter2 On/Off		
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter2 Freq		
+//AMP					
+Map	Amp Tone		Filter Type		
+Map	Amp Crusher		Master Level		
+//MOD ENV					
+Map	Pitch Env		Mod Env Gain		
+Map	Pitch Attack		Mod Env Attack		
+Map	Pitch Decay		Mod Env Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter Env Attack		
+Map	Filter Decay		Filter Env Decay		
+Map	Filter Sustain		Filter Env Sustain		
+Map	Filter Release		Filter Env Release		
+//AMP ENV					
+Map	Amp Attack		Amp Env Attack		
+Map	Amp Decay		Amp Env Decay		
+Map	Amp Sustain		Amp Env Sustain		
+Map	Amp Release		Amp Env Release		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Key Mode		
+//Map	Mono				
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	Malstrom Graintable Synthesizer			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+//Map	LFO Fade Time				
+Map	LFO Rate		Modulator B Rate		
+Map	LFO Pitch		Modulator A To Pitch		
+Map	LFO Filter		Modulator B To Filter		
+Map	LFO Amp		Modulator B To Level		
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+//Map	Osc 1 Type				
+//Map	Osc 1 Range				
+Map	Osc 1 Color		Oscillator A Index		
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+//Map	Osc 2 Type				
+//Map	Osc 2 Range				
+Map	Osc 2 Color		Oscillator B Index		
+//Map	Osc 2 Tune				
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+//Map	Mixer Osc 1				
+//Map	Mixer Osc 2				
+//Map	Mixer Sub Osc				
+//Map	Mixer Noise				
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter A Freq		
+Map	Filter Reso		Filter A Resonance		
+Map	Filter Env		Filter Env Amount		
+Map	Filter Key		Filter A Kbd Track		
+//Map	Filter LPF Type				
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter B Freq		
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Master Level		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack		Oscillator B Attack		
+//Map	Pitch Decay		Oscillator B Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter Env Attack		
+Map	Filter Decay		Filter Env Decay		
+Map	Filter Sustain		Filter Env Sustain		
+Map	Filter Release		Filter Env Release		
+//AMP ENV					
+Map	Amp Attack		Oscillator A Attack		
+Map	Amp Decay		Oscillator A Decay		
+Map	Amp Sustain		Oscillator A Sustain		
+Map	Amp Release		Oscillator A Release		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Legato On/Off		
+Map	Mono		Polyphony		
+
+
+//	______________________________________
+//	
+Scope	Propellerhead Software	se.propellerheads.Monotone			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+//Map	LFO Fade Time				
+Map	LFO Rate		LFO Rate		
+Map	LFO Pitch		Pitch LFO Amt		
+Map	LFO Filter		Filter LFO Amt		
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+//Map	Osc 1 Type				
+Map	Osc 1 Range		Osc1 Oct		
+//Map	Osc 1 Color				
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		FM Env Amt		
+//OSC 2					
+//Map	Osc 2 Type				
+Map	Osc 2 Range		Osc2 Oct
+//Map	Osc 2 Color				
+Map	Osc 2 Tune		Osc Detune		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		Osc Mix		
+//Map	Mixer Osc 2				
+//Map	Mixer Sub Osc				
+Map	Mixer Noise		Noise		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Reso		
+Map	Filter Env		Filter Env Amount		
+Map	Filter Key		Filter Key Amt		
+//Map	Filter LPF Type				
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+Map	Amp Tone		Filter Drive		
+Map	Amp Crusher		Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Filter Attack		
+Map	Filter Decay		Filter Decay		
+Map	Filter Sustain		Filter Sustain		
+Map	Filter Release		Filter Release		
+//AMP ENV					
+Map	Amp Attack		Amp Attack		
+Map	Amp Decay		Amp Decay		
+Map	Amp Sustain		Amp Sustain		
+Map	Amp Release		Amp Release		
+//EFFECTS					
+Map	Effects Reverb		Chorus Amount		
+Map	Effects Delay		Delay Amount		
+Map	Effects Delay Time		Delay Time		
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Portamento Mode		
+Map	Mono		ReTrig		
+
+
+//	______________________________________
+//	
+Scope	Propellerheads	NN-XT Advanced Sampler			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+				
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Res					
+Map	Amp Crusher		Master Volume		
+			
+//AMP ENV					
+Map	Amp Attack		Amp Env Attack		
+Map	Amp Decay		Amp Env Decay		
+Map	Amp Sustain		Amp Env Release		
+Map	Amp Release		Mod Env Decay							
+//					
+//	______________________________________
+//	
+Scope	Propellerheads	NN19 Digital Sampler			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO Wave		
+//Map	LFO Fade Time				
+Map	LFO Rate		LFO Rate		
+Map	LFO Pitch		LFO Amount		
+//Map	LFO Filter				
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync		LFO Sync Enable		
+//OSC 1					
+//Map	Osc 1 Type				
+//Map	Osc 1 Range				
+//Map	Osc 1 Color				
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+//Map	Osc 2 Type				
+Map	Osc 2 Range		Osc Octave		
+Map	Osc 2 Color		Sample Start		
+Map	Osc 2 Tune		Osc Fine Tune		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+//Map	Mixer Osc 1				
+//Map	Mixer Osc 2				
+//Map	Mixer Sub Osc				
+//Map	Mixer Noise				
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Res		
+Map	Filter Env		Filter Env Amount		
+Map	Filter Key		Filter Kbd Track		
+Map	Filter LPF Type		Filter On/Off		
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter Mode		
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Master Level		
+//MOD ENV					
+Map	Pitch Env		Osc Env Amount		
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Filter Env Attack		
+Map	Filter Decay		Filter Env Decay		
+Map	Filter Sustain		Filter Env Sustain		
+Map	Filter Release		Filter Env Release		
+//AMP ENV					
+Map	Amp Attack		Amp Env Attack		
+Map	Amp Decay		Amp Env Decay		
+Map	Amp Sustain		Amp Env Sustain		
+Map	Amp Release		Amp Env Release		
+//EFFECTS					
+Map	Effects Reverb		Stereo Spread		
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Portamento		
+Map	Legato		Key Mode		
+//Map	Mono				
+//					
+
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.Algoritm			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master
+Map	Portamento		Portamento
+
+//EFFECTS					
+Map	Effects Reverb		Reverb Amount		
+Map	Effects Delay		Delay Amount		
+Map	Effects Delay Time		Delay Time		
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.Complex			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Level
+Map	Portamento		Portamento
+
+Map	LFO Rate		LFO Rate		
+
+//MOD ENV					
+Map	Pitch Env		LPG1 Filter		
+Map	Pitch Attack		LPG1 Attack	
+Map	Pitch Decay		LPG1 Release
+
+//AMP ENV					
+Map	Amp Attack		Attack		
+Map	Amp Decay		Decay		
+Map	Amp Sustain		Sustain		
+Map	Amp Release		Release		
+
+Map	Filter LPF Cutoff		Filter Freq		
+Map	Filter Reso		Filter Reso		
+Map	Amp Tone		Filter Drive
+
+Map	Mixer Osc 1		Vol 1		
+Map	Mixer Osc 2		Vol 2		
+Map	Mixer Sub Osc		Vol 3		
+Map	Mixer Noise		Noise Color	
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.Friktion
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Level
+
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.layers			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Main Volume
+
+Map	Filter LPF Cutoff		LA_Filter_Cutoff		
+Map	Filter Reso		LA_Filter_Reso
+Map	Filter Env		LA_Filter_Env		
+
+//AMP ENV					
+Map	Amp Attack		LA_Amp_Attack		
+Map	Amp Decay		LA_Amp_Decay		
+Map	Amp Sustain		LA_Amp_Sustain		
+Map	Amp Release		LA_Amp_Release	
+
+
+Map	Filter Attack		LA_Filter_Attack		
+Map	Filter Decay		LA_Filter_Decay		
+Map	Filter Sustain		LA_Filter_Sustain		
+Map	Filter Release		LA_Filter_Release		
+
+//EFFECTS					
+Map	Effects Reverb		GL_Reverb_Time		
+Map	Effects Delay		GL_Delay_Feedback		
+Map	Effects Delay Time		GL_Delay_Time	
+
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.layers_wave_edition			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Main Volume
+
+Map	Filter LPF Cutoff		LA_Filter_Cutoff		
+Map	Filter Reso		LA_Filter_Reso
+Map	Filter Env		LA_Filter_Env		
+
+//AMP ENV					
+Map	Amp Attack		LA_Amp_Attack		
+Map	Amp Decay		LA_Amp_Decay		
+Map	Amp Sustain		LA_Amp_Sustain		
+Map	Amp Release		LA_Amp_Release	
+
+
+Map	Filter Attack		LA_Filter_Attack		
+Map	Filter Decay		LA_Filter_Decay		
+Map	Filter Sustain		LA_Filter_Sustain		
+Map	Filter Release		LA_Filter_Release		
+
+//EFFECTS					
+Map	Effects Reverb		GL_Reverb_Time		
+Map	Effects Delay		GL_Delay_Feedback		
+Map	Effects Delay Time		GL_Delay_Time	
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.Parsec
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Level
+Map	Portamento		Portamento
+
+Map	Amp Attack		Amp Attack
+Map	Amp Decay		Amp Decay
+Map	Amp Sustain		Amp Sustain
+Map	Amp Release		Amp Release
+
+Map	Filter Attack		Env1 Attack
+Map	Filter Decay		Env1 Decay
+Map	Filter Sustain		Env1 Sustain
+Map	Filter Release		Env1 Release
+
+//EFFECTS					
+Map	Effects Reverb		Reverb Level		
+Map	Effects Delay		Delay DryWet		
+Map	Effects Delay Time		Delay Time	
+
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.ProcessedPianos			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume
+
+
+//					
+//	______________________________________
+//	
+Scope	Propellerhead Software	se.propellerheads.PX7			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO Waveform		
+Map	LFO Fade Time		LFO Delay		
+Map	LFO Rate		LFO Speed		
+
+Map	Osc 1 Color		Operator 1 Freq Coarse		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		Operator 1 Freq Detune		
+//OSC 2					
+//Map	Osc 2 Type				
+//Map	Osc 2 Range				
+Map	Osc 2 Color		Operator 2 Freq Coarse		
+Map	Osc 2 Tune		Operator 1 Freq Fine		
+			
+Map	Filter LPF Cutoff		Brightness		
+Map	Filter Reso		Operator Feedback		
+				
+Map	Amp Tone		Algorithm		
+Map	Amp Crusher		Volume		
+//MOD ENV					
+Map	Pitch Attack		Attack		
+Map	Pitch Decay		Decay		
+//FILTER ENV					
+Map	Filter Attack		Operator 1 Output Level		
+Map	Filter Decay		Operator 2 Output Level		
+Map	Filter Sustain		Operator 3 Output Level		
+Map	Filter Release		Operator 4 Output Level							
+Map	Amp Attack		Operator 5 Output Level
+Map	Amp Decay		Operator 6 Output Level
+
+Map	Portamento		Portamento Time					
+//					
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.RadicalKeys			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Volume		
+
+
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.RDK			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Mix Volume		
+
+
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.ElectricBass			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume		
+
+
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.ScenicHybrid			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master FX Volume		
+
+
+//		________________________________________________________
+
+Scope	Propellerhead Software	se.propellerheads.Umpf			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Volume		
+
+
+//		________________________________________________________
+
+
+Scope	Propellerhead Software	se.propellerheads.UmpfRetroBeats			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Volume		
+
+
+//	______________________________________
+//	
+Scope	AudioRealism	se.audiorealism.reabl2			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Osc 2 Tune		Tuning		
+Map	Mixer Osc Type		Waveform		
+Map	Noise Type		Distortion Type		
+Map	Filter LPF Cutoff		Cutoff		
+Map	Filter Reso		Resonance		
+Map	Filter Env		Envmod		
+Map	Filter Key		Decay		
+Map	Filter HPF Cutoff		Highpass		
+Map	Amp Tone		Accent		
+Map	Amp Crusher		Volume		
+Map	Effects Reverb		Drive		
+Map	Effects Delay		Distortion					
+//					
+//	______________________________________
+//	
+Scope	AudioRealism	se.audiorealism.abl3			
+Map	Osc 2 Tune		Tuning		
+Map	Mixer Osc Type		Waveform		
+Map	Noise Type		Distortion Type		
+
+//FILTER 1					
+Map	Filter LPF Cutoff		Cutoff		
+Map	Filter Reso		Resonance		
+Map	Filter Env		Envmod		
+Map	Filter Key		Decay		
+
+Map	Filter HPF Cutoff		Highpass		
+
+Map	Amp Tone		Accent		
+Map	Amp Crusher		Volume		
+
+//EFFECTS					
+Map	Effects Reverb		Drive		
+Map	Effects Delay		Distortion				
+//					
+//	______________________________________
+//	
+Scope	AudioRealism	se.audiorealism.Dominator			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		DCO Sub		
+Map	LFO Fade Time		LFO Delay		
+Map	LFO Rate		LFO Rate		
+Map	LFO Pitch		DCO LFO Amount		
+Map	LFO Filter		VCF LFO Amount		
+Map	LFO Amp		DCO PWM Rate		
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+Map	Osc 1 Type		DCO Pulse		
+//Map	Osc 1 Range				
+Map	Osc 1 Color		DCO PWM		
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+Map	Osc 2 Type		DCO Saw		
+//Map	Osc 2 Range				
+//Map	Osc 2 Color				
+//Map	Osc 2 Tune				
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+//Map	Mixer Osc 1				
+//Map	Mixer Osc 2				
+Map	Mixer Sub Osc		DCO Sub Level		
+Map	Mixer Noise		DCO Noise Level		
+//FILTER 1					
+Map	Filter LPF Cutoff		VCF Frequency		
+Map	Filter Reso		VCF Resonance		
+Map	Filter Env		VCF Env Amount		
+Map	Filter Key		VCF Key Follow		
+Map	Filter LPF Type		Filter Type		
+//FILTER 2					
+Map	Filter HPF Cutoff		VCF HPF		
+//AMP					
+// Map	Amp Tone				
+Map	Amp Crusher		Volume		
+//MOD ENV					
+Map	Pitch Env		DCO Env Depth		
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV			
+Map	Filter Attack		ENV L1
+Map	Filter Decay		ENV L2
+Map	Filter Sustain		ENV L3
+Map	Filter Release		ENV Key Follow
+//AMP ENV			
+Map	Amp Attack		ENV T1
+Map	Amp Decay		ENV T2
+Map	Amp Sustain		ENV T3
+Map	Amp Release		ENV T4
+//EFFECTS					
+//Map	Effects Reverb				
+// Map	Effects Delay		Chorus Enabled		
+Map	Effects Delay Time		Chorus Rate		
+//KEY MODE					
+Map	Portamento		Portamento Time		
+Map	Legato		Portamento Mode		
+Map	Mono		Polyphony On		
+//					
+//	______________________________________
+//	
+Scope	Blamsoft, Inc.	com.blamsoft.Viking			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO 1 Waveform		
+//Map	LFO Fade Time				
+Map	LFO Rate		LFO Rate		
+//Map	LFO Pitch				
+Map	LFO Filter		On Amount		
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync		LFO Sync		
+//OSC 1					
+//Map	Osc 1 Type				
+Map	Osc 1 Range		OSC 1 Octave		
+Map	Osc 1 Color		OSC 1 Wave		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		OSC3-OSC1 FM		
+//OSC 2					
+//Map	Osc 2 Type				
+Map	Osc 2 Range		OSC 2 Octave		
+Map	Osc 2 Color		OSC 2 Wave		
+Map	Osc 2 Tune		OSC 2 Frequency		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+Map	Osc 2 Sync		OSC1-OSC2 Sync		
+//SUB OSC					
+Map	Mixer Osc Type		OSC 3 Wave		
+//NOISE					
+Map	Noise Type		Noise Circuit		
+//MIXER					
+Map	Mixer Osc 1		Oscillator 1 Amount		
+Map	Mixer Osc 2		Oscillator 2 Amount		
+Map	Mixer Sub Osc		Oscillator 3 Amount		
+Map	Mixer Noise		Noise Amount		
+//FILTER 1					
+Map	Filter LPF Cutoff		Cutoff		
+Map	Filter Reso		Resonance		
+Map	Filter Env		Amount To Filter		
+Map	Filter Key		Keyboard Control Amount		
+Map	Filter LPF Type		Mode		
+//FILTER 2					
+Map	Filter HPF Cutoff		Spacing		
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Master Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Filter Attack		
+Map	Filter Decay		Filter Decay		
+Map	Filter Sustain		Filter Sustain		
+Map	Filter Release		Filter Release		
+//AMP ENV					
+Map	Amp Attack		Vol Attack		
+Map	Amp Decay		Vol Decay		
+Map	Amp Sustain		Vol Sustain		
+Map	Amp Release		Vol Release		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Glide Rate		
+Map	Legato		Gate Source		
+//Map	Mono				
+//					
+//	______________________________________
+//	
+Scope	Blamsoft, Inc.	com.blamsoft.VK2			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+// Map	LFO Fade Time		X		
+Map	LFO Rate		LFO 1 Rate		
+Map	LFO Pitch		Pitch Mod Amount		
+Map	LFO Filter		Filters Frequency Mod 3 Amount		
+Map	LFO Amp		LFO 2 Rate		
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+//Map	Osc 1 Type				
+Map	Osc 1 Range		OSC 1 Range		
+Map	Osc 1 Color		OSC 1 Shape		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		OSC 3 Shape		
+//OSC 2					
+//Map	Osc 2 Type				
+Map	Osc 2 Range		OSC 2 Range		
+Map	Osc 2 Color		OSC 2 Shape		
+Map	Osc 2 Tune		OSC 2 Fine		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+Map	Osc 2 Sync		OSC 2 Hard Sync		
+//SUB OSC					
+Map	Mixer Osc Type		OSC 3 Hard Sync		
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		Mix 1 Amount		
+Map	Mixer Osc 2		Mix 2 Amount		
+Map	Mixer Sub Osc		Mix 3 Amount		
+Map	Mixer Noise		Mix 4 Amount		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filters Frequency		
+Map	Filter Reso		Filters Resonance		
+Map	Filter Env		Filters Frequency Mod 1 Amount		
+Map	Filter Key		Filters Frequency Mod 2 Amount		
+Map	Filter LPF Type		Filters Mode		
+//FILTER 2					
+Map	Filter HPF Cutoff		Mixer Drive		
+//AMP					
+Map	Amp Tone		Amp Drive		
+Map	Amp Crusher		Amp Level		
+//MOD ENV					
+Map	Pitch Env		Filters Spacing		
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Envelope 1 Attack		
+Map	Filter Decay		Envelope 1 Decay		
+Map	Filter Sustain		Envelope 1 Sustain		
+Map	Filter Release		Envelope 1 Release		
+//AMP ENV					
+Map	Amp Attack		Envelope 2 Attack		
+Map	Amp Decay		Envelope 2 Decay		
+Map	Amp Sustain		Envelope 2 Sustain		
+Map	Amp Release		Envelope 2 Release		
+//EFFECTS					
+Map	Effects Reverb		Reverb Mix		
+Map	Effects Delay		Delay Mix		
+Map	Effects Delay Time		Delay Time		
+//KEY MODE					
+Map	Portamento		Glide Amount		
+//Map	Legato				
+Map	Mono		Polyphony		
+//					
+
+//	______________________________________
+//	
+Scope	Ekssperimental Sounds	se.ekss.es01			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO Wave		
+//Map	LFO Fade Time				
+Map	LFO Rate		LFO Speed		
+//Map	LFO Pitch				
+//Map	LFO Filter				
+Map	LFO Amp		PWM Speed		
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+Map	Osc 1 Type		VCO Wave		
+//Map	Osc 1 Range				
+//Map	Osc 1 Color				
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+//Map	Osc 2 Type				
+//Map	Osc 2 Range				
+//Map	Osc 2 Color				
+//Map	Osc 2 Tune				
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+Map	Mixer Osc Type		Sub Osc Octave		
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		VCO Level		
+//Map	Mixer Osc 2				
+Map	Mixer Sub Osc		Sub Osc Level		
+Map	Mixer Noise		White Noise Level		
+//FILTER 1					
+Map	Filter LPF Cutoff		Freq Cut Off		
+Map	Filter Reso		Resonance		
+Map	Filter Env		VCF EG Depth		
+//Map	Filter Key				
+//Map	Filter LPF Type				
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+Map	Amp Tone		VCA EG Depth		
+Map	Amp Crusher		Master Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+//Map	Filter Attack				
+//Map	Filter Decay				
+//Map	Filter Sustain				
+//Map	Filter Release				
+//AMP ENV					
+Map	Amp Attack		Attack Time		
+Map	Amp Decay		Decay Time		
+Map	Amp Sustain		Sustain Level		
+Map	Amp Release		Release Time		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Glissando		
+//Map	Legato				
+//Map	Mono				
+//					
+//					
+
+//		________________________________________________________
+
+Scope	Ekssperimental Sounds	se.ekssperimentalsounds.ES400			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume		
+Map	Portamento		Glide Time		
+
+//FILTER ENV					
+Map	Filter Attack		OP2 - Attack
+Map	Filter Decay		OP2 - Decay
+Map	Filter Sustain		OP2 - Sustain
+Map	Filter Release		OP2 - Release
+
+//AMP ENV					
+Map	Amp Attack		OP1 - Attack		
+Map	Amp Decay		OP1 - Decay		
+Map	Amp Sustain		OP1 - Sustain		
+Map	Amp Release		OP1 - Release	
+
+//MIXER					
+Map	Mixer Osc 1		OP1 - Level		
+Map	Mixer Osc 2		OP2 - Level		
+Map	Mixer Sub Osc		OP3 - Level		
+Map	Mixer Noise		OP4 - Level	
+
+//EFFECTS					
+Map	Effects Reverb		FX - Reverb Mix
+Map	Effects Delay		FX - Echo Mix
+Map	Effects Delay Time		FX - Echo Time
+
+//	______________________________________
+//	
+Scope	FXpansion Audio UK Ltd.	com.fxpansion.Tres			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO 1 Shape		
+//Map	LFO Fade Time				
+Map	LFO Rate		LFO 1 Hertz		
+//Map	LFO Pitch				
+//Map	LFO Filter				
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+Map	Osc 1 Type		OSC1 Shape		
+Map	Osc 1 Range		OSC1 Range		
+Map	Osc 1 Color		OSC1 PW		
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+Map	Osc 2 Type		OSC2 Shape		
+Map	Osc 2 Range		OSC2 Range		
+Map	Osc 2 Color		OSC2 PW		
+Map	Osc 2 Tune		OSC2 Fine		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+Map	Osc 2 Sync		OSC2 HardSync		
+//SUB OSC					
+Map	Mixer Osc Type		Sub Shape		
+//NOISE					
+Map	Noise Type		Noise Colour		
+//MIXER					
+Map	Mixer Osc 1		Osc1 Level		
+Map	Mixer Osc 2		Osc2 Level		
+Map	Mixer Sub Osc		Sub Level		
+Map	Mixer Noise		Noise Level		
+
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Cutoff		
+Map	Filter Reso		Filter Res		
+Map	Filter Env		Envelope Gain		
+Map	Filter Key		Filter FM		
+Map	Filter LPF Type		Filter Mode		
+//FILTER 2					
+Map	Filter HPF Cutoff		EQ Emphasis		
+//AMP					
+Map	Amp Tone		Synth Drive		
+Map	Amp Crusher		Synth Output		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Envelope Attack		
+Map	Filter Decay		Envelope Decay		
+Map	Filter Sustain		Envelope Sustain		
+Map	Filter Release		Envelope Release		
+//AMP ENV					
+Map	Amp Attack		Amp Envelope Attack		
+Map	Amp Decay		Amp Envelope Decay		
+Map	Amp Sustain		Amp Envelope Sustain		
+Map	Amp Release		Amp Envelope Release		
+//EFFECTS					
+Map	Effects Reverb		Filter Drive		
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Glide Amount		
+Map	Legato		Legato		
+Map	Mono		Glide		
+//					
+//		________________________________________________________
+
+Scope	Inphonik	fr.mathieudemange.RYM2612			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Jiggery Pokery	com.jiggerypokery.JPSHarmonicSynth			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Volume		
+
+//FILTER ENV					
+Map	Filter Attack		Osc 2 Attack		
+Map	Filter Decay		Osc 2 Decay		
+Map	Filter Sustain		Osc 2 Sustain		
+Map	Filter Release		Osc 2 Release		
+
+//AMP ENV					
+Map	Amp Attack		Osc 1 Attack		
+Map	Amp Decay		Osc 1 Decay		
+Map	Amp Sustain		Osc 1 Sustain		
+Map	Amp Release		Osc 1 Release		
+
+//		________________________________________________________
+
+Scope	Jiggery Pokery	com.jiggerypokery.Transcendent2000			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Level		
+Map	Portamento		Portamento		
+
+//FILTER 1					
+Map	Filter LPF Cutoff		VCF Frequency		
+Map	Filter Reso		VCF Resonance		
+Map	Filter Env		VCF AD Sweep Depth		
+Map	Filter Key		Filter FM		
+Map	Filter LPF Type		Filter Mode		
+
+//FILTER ENV					
+Map	Filter Attack		VCF Attack		
+Map	Filter Decay		VCF Decay		
+
+//AMP ENV					
+Map	Amp Attack		VCA Attack		
+Map	Amp Decay		VCA Decay		
+Map	Amp Sustain		VCA Sustain		
+Map	Amp Release		VCA Release	
+
+//EFFECTS					
+Map	Effects Reverb		Spring
+Map	Effects Delay		Delay Amount
+Map	Effects Delay Time		Delay Time
+
+
+//	______________________________________
+//	
+Scope	kiloHearts	com.kilohearts.khsONE			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		Global LFO - Waveform		
+//Map	LFO Fade Time				
+Map	LFO Rate		Global LFO - Rate (Free)		
+Map	LFO Pitch		Global LFO - Mod Amount 1		
+Map	LFO Filter		Global LFO - Mod Amount 2		
+Map	LFO Amp		Global LFO - Mod Amount 3		
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+Map	Osc 1 Type		Osc 1 - Waveform		
+Map	Osc 1 Range		Osc 1 - Octave Tuning		
+Map	Osc 1 Color		Osc 1 - Shape		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		Sub - Shape		
+//OSC 2					
+Map	Osc 2 Type		Osc 2 - Waveform		
+Map	Osc 2 Range		Osc 2 - Semi Tuning		
+Map	Osc 2 Color		Osc 2 - Shape		
+Map	Osc 2 Tune		Osc 2 - Cent Tuning		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+Map	Osc 2 Sync		Osc 2 - Waveform Sync		
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		Osc 1 - Gain		
+Map	Mixer Osc 2		Osc 2 - Gain		
+Map	Mixer Sub Osc		Sub - Gain		
+//Map	Mixer Noise				
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter 1 - Cutoff		
+Map	Filter Reso		Filter 1 - Q		
+Map	Filter Env		Filter 1 - Env Modulation Amount		
+Map	Filter Key		Filter 1 - Key Tracking		
+//Map	Filter LPF Type				
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter 2 - Cutoff		
+//AMP					
+Map	Amp Tone		Shaper - Drive		
+Map	Amp Crusher		Master - Gain		
+//MOD ENV					
+Map	Pitch Env		Mod Env - Mod Amount 1		
+Map	Pitch Attack		Mod Env - Attack		
+Map	Pitch Decay		Mod Env - Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter Env - Attack		
+Map	Filter Decay		Filter Env - Decay		
+Map	Filter Sustain		Filter Env - Sustain		
+Map	Filter Release		Filter Env - Release		
+//AMP ENV					
+Map	Amp Attack		Amp Env - Attack		
+Map	Amp Decay		Amp Env - Decay		
+Map	Amp Sustain		Amp Env - Sustain		
+Map	Amp Release		Amp Env - Release		
+//EFFECTS					
+Map	Effects Reverb		Chorus - Depth		
+Map	Effects Delay		Delay - Send		
+Map	Effects Delay Time		Delay - Time (ms)		
+//KEY MODE					
+Map	Portamento		Voice - Portamento Glide Time		
+Map	Legato		Voice - Legato Mode		
+Map	Mono		Voice - Polyphony		
+//					
+
+
+//	______________________________________
+//	
+Scope	KORG	jp.co.korg.MonoPoly			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		MG 1 Waveform		
+//Map	LFO Fade Time				
+Map	LFO Rate		MG 1 Frequency		
+//Map	LFO Pitch				
+//Map	LFO Filter				
+//Map	LFO Amp				
+//Map	LFO Key Trig		MG 1 Key Sync		
+//Map	Tempo Sync		MG 1 Tempo Sync		
+//OSC 1					
+Map	Osc 1 Type		VCO 1 Wave Form		
+Map	Osc 1 Range		VCO 1 Semitone		
+Map	Osc 1 Color		PW Width		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		FM Amount		
+//OSC 2					
+Map	Osc 2 Type		VCO 2 Wave Form		
+Map	Osc 2 Range		VCO 2 Semitone		
+Map	Osc 2 Color		PWM Intensity		
+Map	Osc 2 Tune		VCO 2 Tune		
+//Map	Osc 2 Mod				
+Map	Osc 2 Ring		VCO Modulation		
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		VCO 1 Level		
+Map	Mixer Osc 2		VCO 2 Level		
+Map	Mixer Sub Osc		VCO 3 Level		
+Map	Mixer Noise		Noise		
+//FILTER 1					
+Map	Filter LPF Cutoff		VCF Cutoff		
+Map	Filter Reso		VCF Resonance		
+Map	Filter Env		VCF EG Intensity		
+Map	Filter Key		VCF Kbd Track		
+//Map	Filter LPF Type				
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Output Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		VCF EG Attack		
+Map	Filter Decay		VCF EG Decay		
+Map	Filter Sustain		VCF EG Sustain		
+Map	Filter Release		VCF EG Release		
+//AMP ENV					
+Map	Amp Attack		VCA EG Attack		
+Map	Amp Decay		VCA EG Decay		
+Map	Amp Sustain		VCA EG Sustain		
+Map	Amp Release		VCA EG Release		
+//EFFECTS					
+Map	Effects Reverb		Unison Voices		
+Map	Effects Delay		Voices Unison Detune		
+Map	Effects Delay Time		Voices Unison Spread		
+//KEY MODE					
+Map	Portamento		Portamento		
+//Map	Legato				
+Map	Mono		Key Assign Mode		
+//					
+//	______________________________________
+//	
+Scope	KORG	jp.co.korg.Polysix			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+Map	LFO Fade Time		MG DELAY TIME		
+Map	LFO Rate		MG FREQUENCY		
+Map	LFO Pitch		VCO VIBRATO INT		
+Map	LFO Filter		MG LEVEL		
+//Map	LFO Amp				
+//Map	LFO Key Trig		MG KEY SYNC		
+//Map	Tempo Sync		MG TEMPO SYNC		
+//OSC 1					
+Map	Osc 1 Type		VCO WAVE FORM		
+Map	Osc 1 Range		VCO OCTAVE		
+Map	Osc 1 Color		VCO PWM ADJUST		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		VCO PWM SPEED		
+		
+//FILTER 1					
+Map	Filter LPF Cutoff		VCF CUTOFF		
+Map	Filter Reso		VCF RESONANCE		
+Map	Filter Env		VCF EG INTENSITY		
+Map	Filter Key		VCF KBD TRACK		
+Map	Filter LPF Type		VCA MODE		
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Volume		
+			
+//AMP ENV					
+Map	Amp Attack		EG ATTACK		
+Map	Amp Decay		EG DECAY		
+Map	Amp Sustain		EG SUSTAIN		
+Map	Amp Release		EG RELEASE		
+//EFFECTS					
+Map	Effects Reverb		UNISON VOICES		
+Map	Effects Delay		UNISON DETUNE		
+Map	Effects Delay Time		UNISON SPREAD		
+//KEY MODE					
+//Map	Portamento				
+//Map	Legato				
+Map	Mono		KEY ASSIGN		
+//					
+
+//		________________________________________________________
+
+Scope	LoveOne	se.loveone.Protron			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Main Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.AIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_BI
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.BI
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.BIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.CIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_CIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.LIP
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.LIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_LIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_MI
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.MI
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.MIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.SIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_SIV
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Noise Engineering	us.noiseengineering.RS_VIV
+Map	Amp Crusher		Volume		
+
+
+//		________________________________________________________
+
+Scope	Oenkenstein Audio	nl.oenkenstein.RK2B			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Volume		
+
+//		________________________________________________________
+
+Scope	Primal Audio	Presteign Sound Labs	com.presteign.Macro			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume		
+
+
+//		________________________________________________________
+
+Scope	Primal Audio	com.primalaudio.FM4			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Master Level		
+
+//FILTER ENV					
+Map	Filter Attack		Operator 2 Envelope Attack		
+Map	Filter Decay		Operator 2 Envelope Decay		
+Map	Filter Sustain		Operator 2 Envelope Sustain		
+Map	Filter Release		Operator 2 Envelope Release		
+
+//AMP ENV					
+Map	Amp Attack		Operator 1 Envelope Attack		
+Map	Amp Decay		Operator 1 Envelope Decay		
+Map	Amp Sustain		Operator 1 Envelope Sustain		
+Map	Amp Release		Operator 1 Envelope Release	
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.Arkana			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Amp Crusher		Volume
+Map	Portamento		Glide
+
+Map	Amp Attack		Osc A: Amp Env Attack
+Map	Amp Decay		Osc A: Amp Env Decay
+Map	Amp Sustain		Osc A: Amp Env Sustain
+Map	Amp Release		Osc A: Amp Env Release
+
+Map	Filter Attack		Osc A: Filter Env Attack
+Map	Filter Decay		Osc A: Filter Env Decay
+Map	Filter Sustain		Osc A: Filter Env Sustain
+Map	Filter Release		Osc A: Filter Env Release
+
+//FILTER 1					
+Map	Filter LPF Cutoff		Osc A: Cutoff		
+Map	Filter Reso		Osc A: Resonance		
+Map	Filter Env		Osc A: Filter Env Amt		
+
+//FILTER 2					
+Map	Filter HPF Cutoff		Osc B: Cutoff
+
+//EFFECTS					
+Map	Effects Reverb		Reverb Mix
+Map	Effects Delay		Delay Mix
+Map	Effects Delay Time		Delay Time
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox707			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Main Volume
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox727			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Main Volume
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox808			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Volume
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBox909			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Volume
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBoxL1M			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Main Volume
+
+
+//		________________________________________________________
+
+Scope	Quadelectra Audioworx	com.quadelectra.JackBoxRZi			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Main Volume
+
+
+//		________________________________________________________
+
+Scope	Red Rock Sound	ru.redrocksound.Ivoks			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Global Volume
+Map	Portamento		Global Glide		
+
+//FILTER 1					
+Map	Filter LPF Cutoff		VCF Filter Cut-off		
+Map	Filter Reso		VCF Filter Resonance		
+Map	Filter Env		ENV to Filter Cut-off		
+
+//FILTER ENV					
+Map	Filter Attack		VCF Attack		
+Map	Filter Decay		VCF Decay		
+Map	Filter Sustain		VCF Sustain		
+Map	Filter Release		VCF Release	
+
+//AMP ENV					
+Map	Amp Attack		VCA Attack		
+Map	Amp Decay		VCA Decay		
+Map	Amp Sustain		VCA Sustain		
+Map	Amp Release		VCA Release	
+
+//MIXER					
+Map	Mixer Osc 1		Mixer OSC1		
+Map	Mixer Osc 2		Mixer OSC2		
+Map	Mixer Sub Osc		Mixer External In		
+Map	Mixer Noise		Mixer Noise		
+
+//	______________________________________
+//	
+Scope	Rob Papen	com.robpapen.SubBoomBassRE			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+//Map	LFO Fade Time				
+Map	LFO Rate		Filter 1 LFO Speed (ms)		
+Map	LFO Pitch		Pitch 1 LFO Amount		
+Map	LFO Filter		Filter 1 LFO Amount		
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+//Map	Osc 1 Type				
+Map	Osc 1 Range		Osc 1 Octave		
+Map	Osc 1 Color		Osc 1 PWM Amount		
+//Map	Osc 1 Mod				
+Map	Osc 1 Cross Mod		Osc 2 FM Amount		
+//OSC 2					
+//Map	Osc 2 Type				
+Map	Osc 2 Range		Osc 2 Octave		
+Map	Osc 2 Color		Osc 2 PWM Amount		
+Map	Osc 2 Tune		Osc 2 Fine		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+Map	Osc 2 Sync		Osc 2 Sync		
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+Map	Mixer Osc 1		Osc 1 Volume		
+Map	Mixer Osc 2		Osc 2 Volume		
+//Map	Mixer Sub Osc				
+//Map	Mixer Noise				
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter 1 Frequency		
+Map	Filter Reso		Filter 1 Resonance		
+Map	Filter Env		Filter 1 Envelope Amount		
+Map	Filter Key		Filter 1 Key Tracking		
+//Map	Filter LPF Type				
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter 2 Frequency		
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Main Volume		
+//MOD ENV					
+//Map	Pitch Env				
+Map	Pitch Attack		Free Envelope Attack		
+Map	Pitch Decay		Free Envelope Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter 1 Envelope Attack		
+Map	Filter Decay		Filter 1 Envelope Decay		
+Map	Filter Sustain		Filter 1 Envelope Sustain		
+Map	Filter Release		Filter 1 Envelope Release		
+//AMP ENV					
+Map	Amp Attack		Volume Envelope Attack		
+Map	Amp Decay		Volume Envelope Decay		
+Map	Amp Sustain		Volume Envelope Sustain		
+Map	Amp Release		Volume Envelope Release		
+//EFFECTS					
+Map	Effects Reverb		Reverb 1 Wet / Dry Mix		
+Map	Effects Delay		Stereo Delay 1 Wet / Dry Mix		
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Port Speed		
+Map	Legato		Port Mode		
+Map	Mono		Play Mode		
+
+
+//	______________________________________
+//	
+Scope	Synapse Audio	com.synapseAudioSoftware.Antidote			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		Lfo 1 Shape		
+//Map	LFO Fade Time				
+Map	LFO Rate		Lfo 1 Rate		
+//Map	LFO Pitch				
+Map	LFO Filter		Lfo 1 Target Amount		
+Map	LFO Amp		Lfo 2 Rate		
+//Map	LFO Key Trig		Lfo 1 Free Run		
+//Map	Tempo Sync		Lfo 1 Sync		
+//OSC 1					
+Map	Osc 1 Type		Osc 1 Waveform		
+Map	Osc 1 Range		Osc 1 Semi		
+Map	Osc 1 Color		Osc 1 Modifier		
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+Map	Osc 2 Type		Osc 2 Waveform		
+Map	Osc 2 Range		Osc 2 Semi		
+Map	Osc 2 Color		Osc 2 Modifier		
+Map	Osc 2 Tune		Osc 2 Fine		
+		
+//MIXER					
+Map	Mixer Osc 1		Osc 1 Volume		
+Map	Mixer Osc 2		Osc 2 Volume		
+Map	Mixer Sub Osc		Sub 1 Volume		
+Map	Mixer Noise		Sub 2 Volume		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter CutOff		
+Map	Filter Reso		Filter Resonance		
+Map	Filter Env		Filter Envelope Amount		
+Map	Filter Key		Filter Key Track		
+//Map	Filter LPF Type				
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter Type		
+//AMP					
+Map	Amp Tone		Distortion Tone		
+Map	Amp Crusher		Master Volume		
+//MOD ENV					
+Map	Pitch Env		Mod Envelope Target Amount		
+Map	Pitch Attack		Mod Envelope Attack		
+Map	Pitch Decay		Mod Envelope Decay		
+//FILTER ENV					
+Map	Filter Attack		Filter Envelope Attack		
+Map	Filter Decay		Filter Envelope Decay		
+Map	Filter Sustain		Filter Envelope Sustain		
+Map	Filter Release		Filter Envelope Release		
+//AMP ENV					
+Map	Amp Attack		Amp Envelope Attack		
+Map	Amp Decay		Amp Envelope Decay		
+Map	Amp Sustain		Amp Envelope Sustain		
+Map	Amp Release		Amp Envelope Release		
+//EFFECTS					
+Map	Effects Reverb		Reverb Dry/Wet		
+Map	Effects Delay		Delay Dry/Wet		
+Map	Effects Delay Time		Delay Feedback		
+//KEY MODE					
+Map	Portamento		Glide		
+//Map	Legato				
+//Map	Mono				
+//					
+
+//	______________________________________
+//	
+Scope	Synapse Audio	com.synapseAudioSoftware.Obsession			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+//Map	LFO Shape				
+//Map	LFO Fade Time				
+Map	LFO Rate		Mod LFO 1 Rate		
+Map	LFO Pitch		Mod LFO 2 Rate		
+//Map	LFO Filter				
+//Map	LFO Amp				
+//Map	LFO Key Trig				
+//Map	Tempo Sync				
+//OSC 1					
+//Map	Osc 1 Type				
+//Map	Osc 1 Range				
+//Map	Osc 1 Color				
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+//Map	Osc 2 Type				
+//Map	Osc 2 Range				
+//Map	Osc 2 Color				
+//Map	Osc 2 Tune				
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+//Map	Noise Type				
+//MIXER					
+//Map	Mixer Osc 1				
+//Map	Mixer Osc 2				
+//Map	Mixer Sub Osc				
+//Map	Mixer Noise				
+//FILTER 1					
+Map	Filter LPF Cutoff		[A] Filter Frequency		
+Map	Filter Reso		[A] Filter Resonance		
+Map	Filter Env		[A] Filter Envelope Amount		
+//Map	Filter Key				
+//Map	Filter LPF Type				
+//FILTER 2					
+//Map	Filter HPF Cutoff				
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		[A] Filter Envelope Attack		
+Map	Filter Decay		[A] Filter Envelope Decay		
+Map	Filter Sustain		[A] Filter Envelope Sustain		
+Map	Filter Release		[A] Filter Envelope Release		
+//AMP ENV					
+Map	Amp Attack		[A] Loudness Envelope Attack		
+Map	Amp Decay		[A] Loudness Envelope Decay		
+Map	Amp Sustain		[A] Loudness Envelope Sustain		
+Map	Amp Release		[A] Loudness Envelope Release		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Portamento		
+//Map	Legato				
+//Map	Mono				
+//					
+
+//	______________________________________
+//	
+Scope	Synapse Audio	com.synapseAudioSoftware.Legend			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		Oscillator 3 Waveform		
+//Map	LFO Fade Time				
+Map	LFO Rate		Oscillator 3 Semi		
+		
+//OSC 1					
+Map	Osc 1 Type		Oscillator 1 Waveform		
+Map	Osc 1 Range		Oscillator 1 Range		
+Map	Osc 1 Color		Oscillator 1 Semi		
+//Map	Osc 1 Mod				
+//Map	Osc 1 Cross Mod				
+//OSC 2					
+Map	Osc 2 Type		Oscillator 2 Waveform		
+Map	Osc 2 Range		Oscillator 2 Range		
+Map	Osc 2 Color		Oscillator 2 Semi		
+Map	Osc 2 Tune		Oscillator 2 Fine		
+//Map	Osc 2 Mod				
+//Map	Osc 2 Ring				
+//Map	Osc 2 Sync				
+//SUB OSC					
+//Map	Mixer Osc Type				
+//NOISE					
+Map	Noise Type		Noise Type		
+//MIXER					
+Map	Mixer Osc 1		Oscillator 1 Volume		
+Map	Mixer Osc 2		Oscillator 2 Volume		
+Map	Mixer Sub Osc		Oscillator 3 Volume		
+Map	Mixer Noise		Noise Amount		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter Cutoff		
+Map	Filter Reso		Filter Resonance		
+Map	Filter Env		Filter Envelope Amount		
+Map	Filter Key		Filter Keytrack 1		
+Map	Filter LPF Type		Filter Type		
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter LP/BP		
+//AMP					
+Map	Amp Tone		Drive Amount		
+Map	Amp Crusher		Volume		
+//MOD ENV					
+//Map	Pitch Env				
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+Map	Filter Attack		Filter Envelope Attack		
+Map	Filter Decay		Filter Envelope Decay		
+Map	Filter Sustain		Filter Envelope Sustain		
+Map	Filter Release		Filter Envelope Release		
+//AMP ENV					
+Map	Amp Attack		Amplifier Envelope Attack		
+Map	Amp Decay		Amplifier Envelope Decay		
+Map	Amp Sustain		Amplifier Envelope Sustain		
+Map	Amp Release		Amplifier Envelope Release		
+//EFFECTS					
+Map	Effects Reverb		Feedback Amount		
+Map	Effects Delay		Unison Detune		
+Map	Effects Delay Time		Unison Spread		
+//KEY MODE					
+Map	Portamento		Glide		
+//Map	Legato				
+Map	Mono		Polyphony		
+//					
+//		________________________________________________________
+
+Scope	Synthetech Sound	au.com.synthetechsound.Spectra			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+Map	Amp Crusher		Volume		
+
+//	______________________________________
+//	
+Scope	Zvork	fr.zvork.Noxious			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//LFO					
+Map	LFO Shape		LFO 1 Shape		
+Map	LFO Fade Time		LFO 1 Delay		
+Map	LFO Rate		LFO 1 Frequency		
+Map	LFO Pitch		LFO 1 - Strength		
+Map	LFO Filter		LFO 2 - Strength		
+		
+//FILTER 1					
+Map	Filter LPF Cutoff		Filter 1 Cutoff Freq.		
+Map	Filter Reso		Filter 1 Resonance		
+Map	Filter Env		Modulation Env. 1 - Strength		
+Map	Filter Key		Filter 1 Frequency Kbd. Track - Strength		
+//Map	Filter LPF Type				
+//FILTER 2					
+Map	Filter HPF Cutoff		Filter 2 Cutoff Freq.		
+//AMP					
+//Map	Amp Tone				
+Map	Amp Crusher		Volume		
+//MOD ENV					
+Map	Pitch Env		Modulation Env. 2 - Strength		
+//Map	Pitch Attack				
+//Map	Pitch Decay				
+//FILTER ENV					
+//Map	Filter Attack				
+//Map	Filter Decay				
+//Map	Filter Sustain				
+//Map	Filter Release				
+//AMP ENV					
+Map	Amp Attack		Amp. Env. - Attack Time		
+Map	Amp Decay		Amp. Env. - Decay Time		
+Map	Amp Sustain		Amp. Env. - Sustain Level		
+Map	Amp Release		Amp. Env. - Release Time		
+//EFFECTS					
+//Map	Effects Reverb				
+//Map	Effects Delay				
+//Map	Effects Delay Time				
+//KEY MODE					
+Map	Portamento		Glide		
+//Map	Legato				
+Map	Mono		Polyphony		
+//						
+//					
+
+
+//		________________________________________________________
+
+//		VSTs
+//		________________________________________________________
+
+
+//		________________________________________________________
+
+Scope	Plugin Boutique	vst3.4917D3B52F0949C08237D3E6D8C12588.VirtualCZ
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// Map	preset-jog-wheel-button		Proxy Open Plugin Window
+Map	Amp Crusher		Master Volume
+
+
+//		________________________________________________________
+
+Scope	KORG	vst3.5653544B4C4D316D3100000000000000.M1			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// Map	preset-jog-wheel-button		Proxy Open Plugin Window
+Map	Amp Crusher		MASTER VOLUME
+
+//		________________________________________________________
+
+Scope	Nils Schneider	vst.nK1v.NilsK1v			
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+// Map	preset-jog-wheel-button		Proxy Open Plugin Window
+Map	Amp Crusher		CommonVo
